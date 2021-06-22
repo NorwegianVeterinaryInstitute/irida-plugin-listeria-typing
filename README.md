@@ -8,6 +8,8 @@ As of June 2021, the plugin is actively upgraded and new tools will be added.
 * CheckM - Genome assembly integrity check
 * MLST - Typing
 
+IRIDA plugins are originally galaxy workflows which are converted to IRIDA plugin (.jar file) using [IRIDA plugin development documentation](https://github.com/phac-nml/irida-plugin-example)  
+
 
 ## Plugin installation
 ### Dependenceis:
@@ -19,6 +21,7 @@ As of June 2021, the plugin is actively upgraded and new tools will be added.
  
 
 ### Installation:
+  * Install required tools in IRIDA-galaxy
   * Download the listeria_typing_pipeline-0.1.1.jar file 
   * copy the file into "plugins" directory in IRIDA installation
   * Restart IRIDA (Tomcat).  
