@@ -10,8 +10,9 @@ As of June 2021, the plugin is actively upgraded and new tools will be added.
 
 
 ## Plugin installation
-### Requirements:
+### Dependenceis:
   * IRIDA 20.01 (It may work in other versions)
+  * Galaxy >= 16.01
   * Shovill 
   * CheckM
   * MLST
