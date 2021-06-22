@@ -18,7 +18,10 @@ As of June 2021, the plugin is actively upgraded and new tools will be added.
   * MLST
  
 
-Download the .jar file, copy the file into "plugins" directory in IRIDA installation and restart IRIDA (Tomcat).  
+### Installation:
+  * Download the .jar file 
+  * copy the file into "plugins" directory in IRIDA installation
+  * Restart IRIDA (Tomcat).  
 
 
 
