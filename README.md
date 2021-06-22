@@ -34,6 +34,8 @@ IRIDA plugins are originally [galaxy workflows](https://galaxyproject.org/learn/
 ![Plugin in IRIDA](Pipeline.png?raw=true "Title")
 
 ### Parameters
-![Plugin in IRIDA](Parameters.png?raw=true "Title")
+Parameters can be modified by the users.
+
+![Plugin in IRIDA](Parameters.png?raw=true "Title"){:height="150px" width="150px"}
 
 
