@@ -26,8 +26,14 @@ IRIDA plugins are originally [galaxy workflows](https://galaxyproject.org/learn/
   * copy the file into "plugins" directory in IRIDA installation
   * Restart IRIDA (Tomcat).  
 
+### Galaxy workflow
+![Plugin in IRIDA](Galaxy_WorkFlow.png?raw=true "Title")
+
+
+### Pipeline in IRIDA
 ![Plugin in IRIDA](Pipeline.png?raw=true "Title")
 
-
+### Parameters
+![Plugin in IRIDA](Parameters.png?raw=true "Title")
 
 
