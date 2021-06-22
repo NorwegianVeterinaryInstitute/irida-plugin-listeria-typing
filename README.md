@@ -36,6 +36,6 @@ IRIDA plugins are originally [galaxy workflows](https://galaxyproject.org/learn/
 ### Parameters
 Parameters can be modified by the users.
 
-![Plugin in IRIDA](Parameters.png?raw=true "Title"){:height="50px" width="50px"}
+![Plugin in IRIDA](Parameters.png =100x75)
 
 
