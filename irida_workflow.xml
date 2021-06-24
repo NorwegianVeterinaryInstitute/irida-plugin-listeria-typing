@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <iridaWorkflow>
-  <id>995c830e-b126-45b1-9020-80bafcdc6374</id>
+  <id>ed6f87df-d0a7-4a5a-b57b-aed1a6d47197</id>
   <name>ListeriaTyping</name>
   <version>0.1.1</version>
   <analysisType>listeria_typing_pipeline</analysisType>
@@ -10,10 +10,13 @@
   </inputs>
   <parameters>
     <parameter name="mash-1-pool_input.pool_input_selector" defaultValue="paired_collection">
-      <toolParameter toolId="d32fed36-7534-4f54-8fbd-70f8cc6d79bd" parameterName="pool_input.pool_input_selector"/>
+      <toolParameter toolId="69f28071-474d-4c5f-8d09-fc468be1557c" parameterName="pool_input.pool_input_selector"/>
     </parameter>
-    <parameter name="mash-1-queries_input_source.queries_input_source_selector" defaultValue="history">
-      <toolParameter toolId="d32fed36-7534-4f54-8fbd-70f8cc6d79bd" parameterName="queries_input_source.queries_input_source_selector"/>
+    <parameter name="mash-1-queries_input_source.queries_input_source_selector" defaultValue="tool_data_table">
+      <toolParameter toolId="69f28071-474d-4c5f-8d09-fc468be1557c" parameterName="queries_input_source.queries_input_source_selector"/>
+    </parameter>
+    <parameter name="mash-1-queries_input_source.queries" defaultValue="bdc38c58-006c-4597-b15d-f9b3a6e32aab">
+      <toolParameter toolId="69f28071-474d-4c5f-8d09-fc468be1557c" parameterName="queries_input_source.queries"/>
     </parameter>
     <parameter name="shovill-2-library.lib_type" defaultValue="collection">
       <toolParameter toolId="b6e3967c-945e-452f-988a-1942dfc2a46a" parameterName="library.lib_type"/>
